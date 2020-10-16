@@ -8,7 +8,7 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            \undirezt\telegramfeedback\components\TelegramFeedback::class => 'telegramFeedbak'
+            \undirezt\telegramfeedback\components\TelegramFeedback::class => 'telegramFeedback'
         ];
     }
 
