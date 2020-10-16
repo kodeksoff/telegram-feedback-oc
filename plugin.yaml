@@ -1,0 +1,16 @@
+plugin:
+    name: 'undirezt.telegramfeedback::lang.plugin.name'
+    description: 'undirezt.telegramfeedback::lang.plugin.description'
+    author: undirezt
+    icon: oc-icon-paper-plane
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: TF
+        url: undirezt/telegramfeedback/settings
+        icon: icon-paper-plane
+        sideMenu:
+            settings:
+                label: Настройки
+                url: undirezt/telegramfeedback/settings
+                icon: icon-gear

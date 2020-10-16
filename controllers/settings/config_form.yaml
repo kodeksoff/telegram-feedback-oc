@@ -1,0 +1,11 @@
+name: Settings
+modelClass: Undirezt\Telegramfeedback\Models\Settings
+form: $/undirezt/telegramfeedback/models/settings/fields.yaml
+defaultRedirect: undirezt/telegramfeedback/settings
+create:
+    redirect: 'undirezt/telegramfeedback/settings/update/:id'
+    redirectClose: undirezt/telegramfeedback/settings
+update:
+    redirect: undirezt/telegramfeedback/settings
+    redirectClose: undirezt/telegramfeedback/settings
+preview: {  }

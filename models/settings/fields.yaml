@@ -1,0 +1,10 @@
+fields:
+    chat_id:
+        label: 'Chat ID'
+        span: auto
+        default: ''
+        type: text
+    bot_id:
+        label: 'Bot ID'
+        span: auto
+        type: text

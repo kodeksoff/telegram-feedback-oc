@@ -1,0 +1,11 @@
+columns:
+    id:
+        label: id
+        type: number
+        invisible: true
+    bot_id:
+        label: bot_id
+        type: number
+    chat_id:
+        label: chat_id
+        type: number

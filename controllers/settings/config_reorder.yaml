@@ -1,0 +1,4 @@
+title: Settings
+modelClass: Undirezt\Telegramfeedback\Models\Settings
+toolbar:
+    buttons: reorder_toolbar
